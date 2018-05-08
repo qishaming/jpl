@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="gyc:war">
+    <output-path>$PROJECT_DIR$/parent/gyc/target</output-path>
+    <root id="archive" name="gyc.war">
+      <element id="artifact" artifact-name="gyc:war exploded" />
+    </root>
+  </artifact>
+</component>

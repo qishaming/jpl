@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jpl:war">
+    <output-path>$PROJECT_DIR$/parent/jpl/target</output-path>
+    <root id="archive" name="jpl.war">
+      <element id="artifact" artifact-name="jpl:war exploded" />
+    </root>
+  </artifact>
+</component>
